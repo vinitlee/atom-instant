@@ -1,0 +1,17 @@
+{
+  "name": "instant",
+  "main": "./lib/instant",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "activationEvents": [
+    "instant:toggle",
+    "instant:convert"
+    ],
+  "repository": "https://github.com/atom/instant",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}
